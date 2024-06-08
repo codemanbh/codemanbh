@@ -30,13 +30,13 @@ Here are some of the projects I have worked on:
 ### [CPU Scheduler](https://github.com/codemanbh/cpuScheduler)
 A CPU Process Scedhuling emulator for operating systems done in java, using the priority scedhuling algorithm with round robin.
 
-### Library Management System
+### [Library Management System](https://github.com/codemanbh/libraryManagementSystem)
 A system for managing library resources, including book checkouts, returns, and inventory tracking.
 
 ### Poll Website
 A web application for creating and managing polls, allowing users to vote and view results.
 
-### Pong Game
+### [Pong Game](https://github.com/codemanbh/pong)
 A classic Pong game implementation using python pygame, providing an interactive and nostalgic gaming experience.
 
 ### And Many Others...
