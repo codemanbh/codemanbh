@@ -4,13 +4,14 @@
 
 ## About Me
 
-Hello! My name is Ahmed Yusuf Mansoor Khamdan, and I am a senior Computer Science student at the University of Bahrain. I have been coding since high school and have developed a wide array of skills in various programming languages and technologies. I enjoy teaching others about programming and helping them develop their skills.
+Hello! I’m Ahmed Yusuf Mansoor Khamdan, a senior Computer Science student at the University of Bahrain. I’ve been passionate about coding since high school, and over the years, I’ve honed my skills in a variety of programming languages and technologies. My main focus lies in web and mobile development. Alongside my technical work, I enjoy teaching programming and helping others grow their skills.
 
 ## Skills
 
 ### Programming Languages:
 - Python
 - HTML / CSS / JavaScript
+- Dart
 - PHP
 - Node.js
 - Java
@@ -20,6 +21,7 @@ Hello! My name is Ahmed Yusuf Mansoor Khamdan, and I am a senior Computer Scienc
 ### Frameworks and Libraries:
 - React
 - Next.js
+- Flutter
 - Flask
 - Laravel
 
