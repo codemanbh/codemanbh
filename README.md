@@ -1,70 +1,54 @@
-## Hi there 👋
+# Hi there! 👋  
 
-# Ahmed Yusuf Mansoor Khamdan
+Welcome to my GitHub! I'm **Ahmed Yusuf Khamdan**, a passionate **Senior Computer Science Student**, **Programmer**, **Designer**, and **Data Analyst** dedicated to creating impactful software solutions and solving real-world problems.  
 
-## About Me
+💼 **Available for hiring or freelance projects** 
 
-Hello! I’m Ahmed Yusuf Mansoor Khamdan, a senior Computer Science student at the University of Bahrain. I’ve been passionate about coding since high school, and over the years, I’ve honed my skills in a variety of programming languages and technologies. My main focus lies in web and mobile development. Alongside my technical work, I enjoy teaching programming and helping others grow their skills.
 
-## Skills
+## 🎓 About Me  
+- **Degree:** Pursuing a Bachelor’s in Computer Science at the **University of Bahrain** (CGPA: **3.5**).  
+- **Graduation:** Expected in **May 2025**.  
+- **Passion:** Turning ideas into reality through code, designing engaging applications, and continuously learning new technologies.  
 
-### Programming Languages:
-- Python
-- HTML / CSS / JavaScript
-- Dart
-- PHP
-- Node.js
-- Java
-- MIPS Assembly
-- MySQL
 
-### Frameworks and Libraries:
-- React
-- Next.js
-- Flutter
-- Flask
-- Laravel
+## 🌟 Featured Projects  
+Here are some of my projects:  
+- 🌀 **3D Animated Short:** *The Calm Before the Storm*. [View Project](https://youtu.be/z2LQ5iA58OI)  
+- 📱 **Online Quiz Mobile App:** Built with Flutter. [View Project](https://github.com/codemanbh/quizify)  
+- 🌐 **Poll Website:** Developed with plain PHP. [View Project](https://github.com/codemanbh/pollWebsite)  
+- 📚 **Library Management System:** Created using PHP/Laravel. [View Project](https://github.com/codemanbh/libraryManagementSystem)  
+- 🎮 **Pong Game:** Programmed in Python with Pygame. [View Project](https://github.com/codemanbh/pong)  
 
-## Projects
 
-Here are some of the projects I have worked on:
+## 💼 Experience  
+- **Internship at Gulf Air Group (IT Department):**  
+  - Gained hands-on experience in IT systems and software development.  
+- **Live Streams & Seminars:**  
+  - Hosted coding sessions on topics like:  
+    - **Programming Basics**  
+    - **Algorithm Analysis**  
+    - **MIPS Assembly**  
+    - **Python Fundamentals**  
+  - Conducted a seminar on **Git/GitHub Version Control** to teach best practices in version management.  
 
-### CPU Scheduler
-A CPU Process Scedhuling emulator for operating systems done in java, using the priority scedhuling algorithm with round robin. ([view](https://github.com/codemanbh/cpuScheduler))
 
-### Library Management System
-A system for managing library resources, including book checkouts, returns, and inventory tracking.
-([view](https://github.com/codemanbh/libraryManagementSystem))
+## 💻 Skills  
 
-### Poll Website
-A web application for creating and managing polls, allowing users to vote and view results. ([view](https://github.com/codemanbh/pollWebsite))
+| **Category**          | **Technologies / Tools**                                                             |
+|------------------------|-------------------------------------------------------------------------------------|
+| **Frontend Development** | Flutter/Dart, React.js, Next.js, HTML, CSS, JavaScript, Material UI, Bootstrap      |
+| **Backend Development**  | PHP (Laravel), Python (Flask), SQL, Java, C++ (basic)                               |
+| **Data Analysis**        | Power BI, Microsoft Access                                                         |
+| **Design & Creativity**  | Adobe Premiere, Figma, Blender 3D                                                  |
 
-### Pong Game
-A classic Pong game implementation using python pygame, providing an interactive and nostalgic gaming experience. ([view](https://github.com/codemanbh/pong))
 
-### And Many Others...
-I have worked on various other projects, each honing different aspects of my programming and problem-solving skills.
+## 📜 Certifications  
+- **PL-300:** Microsoft Certified Power BI Data Analyst Associate.  
+- **IELTS:** Band 6.0 (Proficient in English communication).  
+- **MEDIC Basic Plus:** First Aid Certification.  
 
-## Get in Touch
-
-Feel free to reach out to me if you have any questions, need assistance with a project, or just want to connect!
-
-- [GitHub Profile](https://github.com/codemanbh)
-- [LinkedIn](https://www.linkedin.com/in/ahmed-khamdan/)
-
-Thank you for visiting my GitHub profile!
-
-<!--
-**codemanbh/codemanbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Connect!  
+I’m always excited to collaborate on projects or discuss new opportunities:  
+- **GitHub:** [codemanbh](https://github.com/codemanbh/codemanbh)
+- **Portfolio Website:** [ahmedbh.com](ahmedbh.com)  
+- **LinkedIn:** [ahmed-khamdan](https://www.linkedin.com/in/ahmed-khamdan/)
